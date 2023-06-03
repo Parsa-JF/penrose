@@ -1,0 +1,5 @@
+project: penrose
+target: notify
+
+cmds:
+  - cmd: /notify
